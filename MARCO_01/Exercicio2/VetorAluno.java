@@ -1,6 +1,5 @@
 package Exercicio2;
-
-public class VetorAluno implements IVetor {
+public class VetorAluno  {
     private Aluno[] alunos;
     //pprivate Alhno alunos[];
     private int totalAlunos = 0;
@@ -12,7 +11,6 @@ public class VetorAluno implements IVetor {
     /**
      * @param aluno
      */
-    @Override
     public void adiciona(Aluno aluno) {
         if (totalAlunos == alunos.length) {
             return;
@@ -23,7 +21,6 @@ public class VetorAluno implements IVetor {
         //this.totalAlunos++;
     }
 
-    @Override
     public boolean consultar(Aluno aluno) {
         for(int i=0; i< this.totalAlunos ; i++){
             if (aluno.getNome().equals(alunos[i].getNome())) {
@@ -34,7 +31,6 @@ public class VetorAluno implements IVetor {
         return false;
     }
 
-    @Override
     public int tamanho(){
         return this.totalAlunos;
     }
