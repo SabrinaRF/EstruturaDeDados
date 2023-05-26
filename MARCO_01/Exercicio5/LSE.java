@@ -1,7 +1,5 @@
 package Exercicio5;
 
-import javax.sound.midi.MidiDevice.Info;
-
 public class LSE implements Lista {
 
     private Noh inicio;

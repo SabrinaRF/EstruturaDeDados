@@ -37,7 +37,7 @@ public class LSE implements Lista {
 
     @Override
     public boolean remove(Object o) {
-        // TODO Auto-generated method stub
+        
         throw new UnsupportedOperationException("Unimplemented method 'remove'");
     }
 
