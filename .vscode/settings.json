@@ -1,7 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "Prova/Q1",
         "MARCO_01",
-        "Prova/Q1"
+        "Prova/Q3"
     ]
 }

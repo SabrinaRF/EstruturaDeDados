@@ -1,7 +1,7 @@
 public class Q2 {
     public void selectionSort () {
-        for (int i = ; i >= ______________; ______________) {
-           int maior = this.posMaior(______________);
+        for (int i = tamanho -1; i >= 0; i--) {
+           int maior = this.posMaior(i);
               if (maior != i) 
                  this.troca (i, maior);
            }

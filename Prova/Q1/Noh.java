@@ -1,6 +1,4 @@
 package Q1;
-
-
 public class Noh {
     private int valor;
     private Noh proximo;
