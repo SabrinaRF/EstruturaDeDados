@@ -1,0 +1,4 @@
+1- quadratica
+2- constante
+3- constante
+4- constante

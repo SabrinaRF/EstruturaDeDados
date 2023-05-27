@@ -2,7 +2,7 @@ package Q3;
 
 public class Fibi {
 
-    public int fiborec( int n){
+    public int fiborec(int n){
         if(n < 2){
             return n
         }else{
