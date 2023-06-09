@@ -8,5 +8,6 @@ public interface IPilha {
     public Object Top(); 
     public  boolean testaPalindromo(String palavra);
     public void imprimeResultado(String palavra);
+    public boolean remove();
 }
 

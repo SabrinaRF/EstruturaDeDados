@@ -62,7 +62,7 @@ public class Pilha implements IPilha{
     @Override
     public void imprimeResultado(String palavra) {
         System.out.println("Palavra: " + palavra);
-        System.out.println("É palíndromo? " + testaPalindromo(palavra));
+        System.out.println(testaPalindromo(palavra));
         System.out.println();
     } 
     @Override
