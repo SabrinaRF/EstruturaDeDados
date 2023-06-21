@@ -1,9 +1,10 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "TrabalhoT2",
         "Prova/Q3",
         "Prova/Q1",
         "MARCO_01",
-        "TrabalhoT2"
+        "MARCO_02/Atividade11"
     ]
 }
