@@ -1,5 +1,7 @@
 # Estruturas de Dados (AL0334)
 
+Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
+
 ### Carga Horária:
 
 Total do Componente: 60 horas.
@@ -7,12 +9,6 @@ Total do Componente: 60 horas.
 Presencial Teórica: 30 horas.
 
 Presencial Prática: 30 horas.
-
-EAD Teórica: 00 horas.
-
-EAD Prática: 00 horas.
-
-Extensão: 00 horas.
 
 ### Pré‑requisitos:
 
